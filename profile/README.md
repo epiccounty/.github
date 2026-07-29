@@ -10,6 +10,8 @@ The company's research division.
 
 Manuscripts in preparation. Publications and reproducible artifacts will be released here when ready.
 
+- 📧 Research inquiries: [labs@epiccounty.com](mailto:labs@epiccounty.com)
+
 ## Open Source — Epic County Ecosystem
 
 A unified toolchain for AI-native development, installed and managed via the [`epiccounty`](https://github.com/epiccounty/epiccounty.com) CLI.
@@ -34,4 +36,4 @@ A unified toolchain for AI-native development, installed and managed via the [`e
 ## Links
 
 - 🌐 [epiccounty.com](https://epiccounty.com)
-- 📧 labs@epiccounty.com
+- 📧 [hello@epiccounty.com](mailto:hello@epiccounty.com)
