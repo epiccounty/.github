@@ -12,8 +12,6 @@ The company's research division.
 
 Manuscripts in preparation. Publications and reproducible artifacts will be released here when ready.
 
-- 📧 Research inquiries: [labs@epiccounty.com](mailto:labs@epiccounty.com)
-
 ## Open Source — Epic County Ecosystem
 
 A Rust toolchain for AI-native development, installed and managed through the [`epiccounty`](https://github.com/epiccounty/epiccounty.com) CLI (`epiccounty install all`).
@@ -32,7 +30,7 @@ A Rust toolchain for AI-native development, installed and managed through the [`
 
 ### CLI Tools
 
-- [**claudy**](https://github.com/epicsagas/claudy) — switch between Anthropic, Z.AI, OpenRouter, Ollama, and custom endpoints with one command, with per-profile credential and config isolation.
+- [**claudy**](https://github.com/epicsagas/claudy) — switch claude code between Anthropic, Z.AI, OpenRouter, Ollama, and custom endpoints with one command, with per-profile credential and config isolation.
 - [**obsidian-forge**](https://github.com/epicsagas/obsidian-forge) — Rust CLI that scaffolds, automates, and maintains Obsidian vaults as a background daemon: inbox processing, graph strengthening, and git sync.
 
 ### Libraries
